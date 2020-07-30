@@ -4,7 +4,8 @@
     "module": "commonjs",
     "target": "es5",
     "jsx": "react",
-    "jsxFactory": "h"
+    "jsxFactory": "h",
+    "skipLibCheck": true
   },
   "include": [
     "./src/**/*.tsx",
